@@ -1,6 +1,6 @@
 # H-H-CPA-Website
 Website Design for H&amp;H CPA firm.
 
-Check it out at: https://davidhan02.github.io/JhanWebsite/
+Front end of the website, without the email functionality.
 
-or: https://jhan-website-v2.glitch.me/
+Complete website here: https://jhancpa.herokuapp.com/
